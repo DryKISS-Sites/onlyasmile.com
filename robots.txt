@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://onlyasmile.com/sitemap.xml
+Disallow:
